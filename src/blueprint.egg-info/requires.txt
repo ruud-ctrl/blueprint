@@ -1,0 +1,13 @@
+typer>=0.12
+rich>=13
+InquirerPy>=0.3
+pydantic>=2
+pydantic-settings>=2
+pyyaml>=6
+
+[dev]
+pytest
+ruff
+black
+mypy
+pre-commit
